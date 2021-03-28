@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="tdautomation Framework" duration-ms="31118" started-at="2021-03-20T20:02:28Z" finished-at="2021-03-20T20:02:59Z">
+    <groups>
+    </groups>
+    <test name="Regression Tests" duration-ms="31118" started-at="2021-03-20T20:02:28Z" finished-at="2021-03-20T20:02:59Z">
+      <class name="testcases.TC002Payee">
+        <test-method status="PASS" signature="addPayee()[pri:0, instance:testcases.TC002Payee@7dc0f706]" name="addPayee" duration-ms="19437" started-at="2021-03-20T20:02:40Z" finished-at="2021-03-20T20:02:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addPayee -->
+      </class> <!-- testcases.TC002Payee -->
+      <class name="testcases.TC001Login">
+        <test-method status="PASS" signature="verifyLogin()[pri:0, instance:testcases.TC001Login@3d34d211]" name="verifyLogin" duration-ms="11626" started-at="2021-03-20T20:02:28Z" finished-at="2021-03-20T20:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- testcases.TC001Login -->
+    </test> <!-- Regression Tests -->
+  </suite> <!-- tdautomation Framework -->
+</testng-results>
